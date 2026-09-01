@@ -4,10 +4,12 @@
 </p>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Ishika+Dumeer;Software+Developer" alt="Typing SVG" />
+<br>
 </div>
 <p align="center">
   <img src="./terminal.svg" width="800" />
 </p>
+<br>
 <p align="center">
   <img src="./chat.svg" width="800" />
 </p>
