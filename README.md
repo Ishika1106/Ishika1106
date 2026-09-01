@@ -96,53 +96,6 @@ apparently I have not learned all the patterns
 
 <br>
 
-### ACHIEVEMENT UNLOCKED
-
-### AVINYA 2026 — IIT GUWAHATI
-
-Final round at the Eco-Innovate Challenge with URJA, selected from 2,000+ registrations.
-
-Started as an idea.  
-Somehow ended up at IIT Guwahati.
-
-<br>
-
-### 36 HOURS — HARDWARE HACKATHON
-
-Built a gesture-controlled battlefield system with team 0x04_ARC.
-
-Top 30 out of nearly 120 teams, followed by selection among the final 10 teams for exhibition.
-
-36 hours.  
-One working prototype.  
-Almost no concept of sleep.
-
-<br>
-
-### YOUNG LEADERSHIP SUMMIT — IIM BANGALORE
-
-Selected for the Young Leadership Summit at IIM Bangalore from 30,774 Venix registrations.
-
-Apparently a 200-word SOP can take you places.
-
-<br>
-
-### IIT DELHI — CAMPUS AMBASSADOR
-
-Selected as a Campus Ambassador associated with IIT Delhi's Entrepreneurship Development Cell and received a Letter of Recommendation for the experience.
-
-Apparently saying "I should attend more events" sometimes works.
-
-<br>
-
-### BECON — IIT DELHI
-
-Visited IIT Delhi for BECON and got to experience an ecosystem built around ideas, innovation and ambition.
-
-Came back with approximately 47 new things to think about.
-
-<br>
-
 <div align="center">
   <br>
   <h2>Github, but make it architectural.</h2>
