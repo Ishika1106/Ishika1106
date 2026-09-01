@@ -190,17 +190,3 @@ respect.
 <p align="center">
   <code>&gt; connection closed_</code>
 </p>
-
----
-
-wait.
-
-you actually read all of that?
-
-respect.
-
-<br>
-
-<p align="center">
-  <code>&gt; connection closed_</code>
-</p>
