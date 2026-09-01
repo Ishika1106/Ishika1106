@@ -1,5 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="./git-header.svg" width="100%" />
+</p>
 
+<p align="center">
+  oh hi.
+</p>
+
+<p align="center">
+  you found my github.
+</p>
 <!--
 **Ishika1106/Ishika1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
