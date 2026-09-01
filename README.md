@@ -1,14 +1,10 @@
 <p align="center">
   <img src="./git-header.svg" width="100%" />
 </p>
-
-<p align="center">
-  oh hi.
 </p>
-
-<p align="center">
-  you found my github.
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Ishika+Dumeer;Software+Developer" alt="Typing SVG" />
+</div>
 <p align="center">
   <img src="./terminal.svg" width="800" />
 </p>
@@ -95,3 +91,41 @@ status: still fighting
 every problem has a pattern
 
 apparently I have not learned all the patterns
+<div align="center">
+  <h2>github, but make it architectural.</h2>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile-3d-contrib/profile-night-rainbow.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile-3d-contrib/profile-season.svg"
+    />
+    <img
+      src="./profile-3d-contrib/profile-night-rainbow.svg"
+      alt="3D contribution graph"
+      width="100%"
+    />
+  </picture>
+
+  <p>
+    apparently those little green squares were building something.
+  </p>
+</div>
+<br>
+
+---
+
+wait.
+
+you actually read all of that?
+
+respect.
+
+<br>
+
+<p align="center">
+  <code>&gt; connection closed_</code>
+</p>
