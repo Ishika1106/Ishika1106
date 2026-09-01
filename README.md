@@ -17,7 +17,8 @@
 </p>
 
 <br>
-## things I made when "just trying something" got out of hand
+
+### Things I made when "just trying something" got out of hand
 
 <table>
 <tr>
