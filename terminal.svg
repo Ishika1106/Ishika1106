@@ -1,0 +1,22 @@
+<svg width="800" height="230" viewBox="0 0 800 230" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="230" rx="12" fill="#111111"/>
+
+  <circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="20" r="6" fill="#27c93f"/>
+
+  <text x="95" y="25" fill="#888888" font-family="monospace" font-size="12">ishika@github ~</text>
+
+  <g fill="#f2f2f2" font-family="monospace" font-size="16">
+    <text x="25" y="65">&gt; booting ishika.exe...</text>
+    <text x="25" y="92">&gt; checking projects...</text>
+    <text x="25" y="119">&gt; checking achievements...</text>
+    <text x="25" y="146">&gt; checking DSA...</text>
+    <text x="25" y="173">&gt; 450+ problems found.</text>
+    <text x="25" y="200">&gt; DSA remains undefeated.</text>
+  </g>
+
+  <rect x="214" y="187" width="9" height="17" fill="#f2f2f2">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
